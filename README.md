@@ -43,7 +43,7 @@ OBSERVATIONS:
 Tabulation:
 
 LINE REGULATION
-<img width="638" height="3![WhatsApp Image 2025-10-18 at 11 29 06 AM](https://github.com/user-attachments/assets/8bdc6f10-6822-41ba-a799-e968027e5156)
+[WhatsApp Image 2025-10-18 at 11 29 06 AM](https://github.com/user-attachments/assets/8bdc6f10-6822-41ba-a799-e968027e5156)
 
 
 LOAD REGULATION
